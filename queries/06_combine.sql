@@ -1,0 +1,3 @@
+INSERT INTO 1_fine
+SELECT *
+FROM 2_fine;
